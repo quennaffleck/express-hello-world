@@ -56,6 +56,7 @@ const html = `
     <section>
       Hello from Render!
     </section>
+    <p> Hello I'm live </p>
   </body>
 </html>
 `
