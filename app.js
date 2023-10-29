@@ -54,10 +54,10 @@ const html = `
   </head>
   <body>
     <section>
-      <p>Hello from Qunetin!</p>
-      <p> Hello I'm live </p>
+      <p>Hello from Quentin!</p>
+      <p>I'm live </p>
     </section>
-    <p> Hello I'm live </p>
+    
   </body>
 </html>
 `
